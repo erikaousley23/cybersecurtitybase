@@ -1,11 +1,11 @@
 # Site settings
-title: Beau Gilbert
-email: beaugilbert93@gmail.com
-url: https://coachbeau.github.io/cyber-base
+title: Erika Ousley
+email: erika.ousley.23@gmail.com
+url: https://erikaousley23.github.io/cybersecuritybase
 description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
 keywords: "cybersecurity, cyber, security, portfolio, tech"
 skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author: Gilbert Beau
+meta_author:Ousley Erika
 
 # Google webmaster tools
 google_verify:
@@ -32,7 +32,7 @@ color:
 
 # Footer settings
 footer:
-  copyright: Beau Gilbert
+  copyright: erika ousley
   location: Location
   social: Around the Web
   credits: Credits
@@ -40,13 +40,13 @@ footer:
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: linkedin
-    url: https://www.linkedin.com/in/beau-gilbert93/
+    url: https://www.linkedin.com/in/erika-ousley23
   - title: github
-    url: https://github.com/coachbeau
+    url: https://github.com/erikaousley
 
 # Email Address (make sure to include "mailto:" before your email!)
 email:
-  email-url: mailto:beaugilbert93@gmail.com
+  email-url: mailto:erika.ousley.23@gmail.com
 
 # Postal address (add as many lines as necessary)
 location:
