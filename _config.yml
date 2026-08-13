@@ -1,11 +1,11 @@
 # Site settings
-title: Erika Ousley
+title: ErikaOusley
 email: erika.ousley.23@gmail.com
-url: https://erikaousley23.github.io/cybersecuritybase
-description: "Portfolio of cybersecurity work samples for a junior-level cyber security professional."
-keywords: "cybersecurity, cyber, security, portfolio, tech"
-skills: "Cybersecurity - Analyst - Ethical Hacker"
-meta_author:Ousley Erika
+url:https://erikaousley23.github.io/cybersecuritybase
+description:"Portfolioofcybersecurityworksamplesforajunior-levelcybersecurityprofessional."
+keywords: "cybersecurity,cyber,security,portfolio,tech"
+skills:"Cybersecurity-Analyst-Ethical Hacker"
+meta_author:OusleyErika
 
 # Google webmaster tools
 google_verify:
@@ -34,7 +34,7 @@ color:
 footer:
   copyright: erikaousley
   location: Littlerock
-  social: Around the Web
+  social: AroundtheWeb
   credits: Credits
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
@@ -50,10 +50,10 @@ email:
 
 # Postal address (add as many lines as necessary)
 location:
-  - line: LittleRock,Arkansas
+  - line:LittleRock,Arkansas
 
 # Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
+credits:'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.
 Cyber icons created by <a href="https://www.flaticon.com/free-icons/cyber-attack" title="cyber attack icons">Freepik - Flaticon</a>.'
 
 # Build settings
